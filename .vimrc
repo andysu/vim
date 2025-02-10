@@ -76,7 +76,7 @@ else
 endif
 else
 " терминал?
-  colorscheme myterm
+  colorscheme habamax
 endif
 
 tab sball
