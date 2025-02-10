@@ -1,5 +1,5 @@
 # vim
-my vim settings - trhank to habr user Rerlin at https://habr.com/ru/articles/224979/
+my vim settings - thnx to habr user Relrin at https://habr.com/ru/articles/224979/
 
 # before -reqz
 1-install vim/nvim/vim-enhanced
