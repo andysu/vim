@@ -4,4 +4,4 @@ pip3 install pyflakes pep8 pylint ipython
 
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
-git clone https://raw.githubusercontent.com/andysu/vim/refs/heads/main/.vimrc ~/.vimrc2
+git clone https://raw.githubusercontent.com/andysu/vim/refs/heads/main/.vimrc ~/.vimrc
