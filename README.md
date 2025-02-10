@@ -12,3 +12,5 @@ my vim settings - thnx to habr user Relrin at https://habr.com/ru/articles/22497
 ```
 wget -O- https://raw.githubusercontent.com/andysu/vim/refs/heads/main/setup | bash
 ```
+# after
+:PliginInstall
